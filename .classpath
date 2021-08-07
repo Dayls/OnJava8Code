@@ -8,5 +8,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/onjava"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="ControlFlow"/>
+	<classpathentry kind="src" path="Housekeeping"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

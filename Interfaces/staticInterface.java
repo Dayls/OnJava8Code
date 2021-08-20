@@ -1,6 +1,6 @@
 interface Operations {
 	void execute();
-	static void runOps(Operations... ops) {
+	static void runOps(Operations... ops) {	// it is not possible to overrride static method
 		for(Operations op : ops)
 			op.execute();
 	}

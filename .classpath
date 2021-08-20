@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="Reuse"/>
 	<classpathentry kind="src" path="Polymorphism"/>
 	<classpathentry kind="src" path="Interfaces"/>
+	<classpathentry kind="src" path="InnerClasses"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
